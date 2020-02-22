@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-800 bg-white leading-normal flex flex-col min-h-screen">
+  <div class="text-gray-800 bg-white dark:bg-grey-900 dark:text-white leading-normal flex flex-col min-h-screen">
     <header class="">
         <nav class="nav h-20 flex flex-wrap items-center justify-between px-4">
       <div class="flex flex-no-shrink items-center mr-6 py-3 text-purple-450">
@@ -30,7 +30,7 @@
     <div class="flex-grow">
       <slot/>
     </div>
-    <footer class="bg-purple-450 text-white">
+    <footer class="bg-purple-450 dark:bg-purple-700 text-white">
       <div class="container mx-auto flex items-center justify-between py-8">
         <div>copyright 2020. All rights reserved</div>
         <ul class="flex items-center">
@@ -63,4 +63,4 @@ query {
 }
 </static-query>
 
-<style src='../styles/main.css' />
+

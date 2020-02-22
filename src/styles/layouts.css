@@ -29,6 +29,8 @@
 
   .menu-btn:checked ~ .menu {
     display: block;
+    background: #ffffff;
+    z-index: 1000000;
   }
 
   .menu-btn:checked ~ .menu-icon .navicon {
