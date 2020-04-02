@@ -26,9 +26,9 @@
     <div class="w-full min-h-2 z-50 -mt-16 sm:-mt-20 md:-mt-24 lg:-mt-32 xl:-mt-32">
       <div class="bg-white w-11/12 min-h-2 dark:bg-grey-900 shadow-2xl mx-auto rounded-lg">
         <div class="flex justify-around">
-          <div class="m border-gray-600  border-r-2">you</div>
-          <div class="m border-gray-600 border-r-2">me</div>
-          <div class="m border-gray-600 border-r-2">us</div>
+          <div class="m border-gray-600  border-r-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic dolor asperiores facilis atque error perferendis quae at exercitationem repudiandae, maiores perspiciatis quo maxime? Officiis architecto nesciunt, itaque ipsum numquam aliquid.</div>
+          <div class="m border-gray-600 border-r-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia aliquid error sint, et, doloribus modi necessitatibus vero vel sapiente illo asperiores voluptate soluta corporis natus neque fuga! Rem, totam!</div>
+          <div class="m border-gray-600 border-r-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem saepe fugiat ab recusandae perspiciatis natus aperiam minima placeat assumenda nesciunt necessitatibus ipsum nam obcaecati voluptatem laboriosam dolores aliquam, possimus ratione?</div>
         </div>
       </div>
     </div>

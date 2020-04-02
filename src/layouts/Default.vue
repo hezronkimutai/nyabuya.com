@@ -3,7 +3,7 @@
     <header class="">
         <nav class="nav h-20 flex flex-wrap items-center justify-between px-4">
       <div class="flex flex-no-shrink items-center mr-6 py-3 text-purple-450">
-        <a href="/"><h1 class="font-ram text-3xl  mr-2 text-purple-450 font-bold"> &lt;B /&gt;</h1></a>
+        <g-link to="/"><h1 class="font-ram text-3xl  mr-2 text-purple-450 font-bold"> &lt;B /&gt;</h1></g-link>
       </div>
 
       <input class="menu-btn hidden" type="checkbox" id="menu-btn">
@@ -13,15 +13,15 @@
 
       <ul class="menu border-b md:border-none flex justify-end list-reset m-0 w-full md:w-auto">
         <li class="border-t md:border-none">
-          <a href="/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold">Home</a>
+          <g-link to="/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold">Home</g-link>
         </li>
         
         <li class="border-t md:border-none">
-          <a href="/resume/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker">Resume</a>
+          <g-link to="/resume/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker">Resume</g-link>
         </li>
         
         <li class="border-t md:border-none">
-          <a href="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker">Blog</a>
+          <g-link to="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker">Blog</g-link>
         </li>
         
       </ul>
@@ -35,19 +35,19 @@
         <div>copyright 2020. All rights reserved</div>
         <ul class="flex items-center">
           <li class="mr-8">
-            <a href="#">A</a>
+            <g-link to="/">A</g-link>
           </li>
           <li class="mr-8">
-            <a href="#">A</a>
+            <g-link to="/">A</g-link>
           </li>
           <li class="mr-8">
-            <a href="#">A</a>
+            <g-link to="/">A</g-link>
           </li>
           <li class="mr-8">
-            <a href="#">A</a>
+            <g-link to="/">A</g-link>
           </li>
           <li class="mr-8">
-            <a href="#">A</a>
+            <g-link to="/">A</g-link>
           </li>
         </ul>
       </div>
